@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		u6WCwnsMwm6Oi2ur6odSI7YbQSA=
+		Yjh+DuT/EK2pZzBWva/p9riNUYM=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -23,10 +23,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			BIi8h6PdLjSyDpCf8k6oSr3wcx8=
+			9MAxa1b7FmuPqqURYibFEC9wFzA=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"0488bc87a3dd2e34b20e909ff24ea84abdf0731f"</string>
+			<string>cdhash H"f4c0316b56fb166b8faaa5116226c5102f701730"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -212,37 +212,37 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			dJN5b3brPgE+NIcnqFN1jREh8c4=
+			zIFSFPQtcsdLC76hYm3FhnVXSc8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"7493796f76eb3e013e348727a853758d1121f1ce"</string>
+			<string>cdhash H"cc815214f42d72c74b0bbea1626dc586755749cf"</string>
 		</dict>
 		<key>Frameworks/video_player_avfoundation.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			vIgMw538xQQyv+y3A7OrZxHnhsY=
+			xV3iYNnKgIN2BTbchNZcmzX0VIo=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"bc880cc39dfcc50432bfecb703b3ab6711e786c6"</string>
+			<string>cdhash H"c55de260d9ca8083760536dc84d65c9b35f4548a"</string>
 		</dict>
 		<key>MacOS/__preview.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ZB465Oq6GZhA7h97RN4rsAPk7Ew=
+			jDYVO9rg3caOpPZuGB3yNH3Y0xY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"641e3ae4eaba199840ee1f7b44de2bb003e4ec4c"</string>
+			<string>cdhash H"8c36153bdae0ddc68ea4f66e181df2347dd8d316"</string>
 		</dict>
 		<key>MacOS/scouting_test.debug.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			YgcZhFAetyDBlLBLzYytqgRp+IE=
+			+rYTvTpt+aEv2yp/BNvWYUuCkaM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"62071984501eb720c194b04bcd8cadaa0469f881"</string>
+			<string>cdhash H"fab613bd3a6df9a12fdb2a7f04dbd6614b8291a3"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -255,7 +255,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fJ6uBsXZovj/qs6dYlVZ4WBjHAXjt/JDbD2nhHlSQPc=
+			k0e7yN874OtPBaVWJAVKa4cNa6+gvk8E9iHbOxlyn2I=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>

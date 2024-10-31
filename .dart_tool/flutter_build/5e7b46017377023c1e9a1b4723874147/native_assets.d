@@ -1,0 +1,1 @@
+ /Users/amitaskof/Scouting-Demo/.dart_tool/flutter_build/5e7b46017377023c1e9a1b4723874147/native_assets.yaml: 
