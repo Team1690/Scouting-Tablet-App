@@ -1,0 +1,1 @@
+ C:\\Users\\Robotica\\Scouting-Demo\\.dart_tool\\flutter_build\\e91ef6949f27488d0072c9690cc4c456\\native_assets.yaml: 

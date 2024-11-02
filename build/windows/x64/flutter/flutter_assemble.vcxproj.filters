@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Robotica\Scouting-Demo\build\windows\x64\CMakeFiles\289fef144cfc06d5867fb325b318a585\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Robotica\Scouting-Demo\build\windows\x64\CMakeFiles\2f458fdf37ae47ad163f5c0051e88100\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Robotica\Scouting-Demo\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Robotica\Scouting-Demo\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7E0C415B-EC63-350A-8DA9-B4FB2832D789}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

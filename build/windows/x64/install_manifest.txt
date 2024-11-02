@@ -1,0 +1,10 @@
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/flutter_assets/gg.MP4
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Robotica/Scouting-Demo/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

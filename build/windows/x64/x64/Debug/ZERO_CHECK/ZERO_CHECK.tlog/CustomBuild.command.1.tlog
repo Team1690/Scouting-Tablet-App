@@ -1,0 +1,10 @@
+^C:\USERS\ROBOTICA\SCOUTING-DEMO\BUILD\WINDOWS\X64\CMAKEFILES\0A3D30F1A8ECE47BADC77B18C591CDE8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Robotica/Scouting-Demo/windows -BC:/Users/Robotica/Scouting-Demo/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Robotica/Scouting-Demo/build/windows/x64/scouting_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
