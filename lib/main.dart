@@ -81,7 +81,7 @@ class MyHomePageState extends State<MyHomePage> {
     });
   }
 
-  void _stopVideo() {
+  void stopVideo() {
     _controller?.pause();
     _controller?.seekTo(Duration.zero);
     setState(() {
